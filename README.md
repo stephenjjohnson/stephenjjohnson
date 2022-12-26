@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephenjjohnson
-- <a rel="me" href="https://mastodon.online/@stephenjjohnson">Mastodon Personal)</a>
+- <a rel="me" href="https://mastodon.online/@stephenjjohnson">Mastodon (Personal)</a>
 - <a rel="me" href="https://mstdn.social/@stephenjjohnson">Mastodon (Work)</a>
 
 <!---
